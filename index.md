@@ -10,10 +10,10 @@
 
 ---
 
-### 2. Prediction for Risk
+### 2. Prediction for Overdose in Mesa
 
-[Risk Prediction](/project_markdown/Risk_prediction.html)
-<img src="images/crime_pridict.png?raw=true"/>
+[Risk Prediction](/project_markdown/Geospatial_risk.html)
+<img src="images/geospatial.png?raw=true"/>
 
 
 ---
