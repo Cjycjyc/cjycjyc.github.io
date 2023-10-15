@@ -1,19 +1,19 @@
 ## Portfolio
 
 ---
+### 1. Prediction for Overdose in Mesa
 
-### 1. Prediction for house price
+[Risk Prediction](/project_markdown/finaldraft_Rui_Jingyi.html)
+<img src="images/geospatial.png?raw=true"/>
 
-[House Price Prediction](/project_markdown/Rui_Jiang, Jingyi_CaiMidterm.html)
-<img src="images/hoseprice.png?raw=true"/>
 
 
 ---
 
-### 2. Prediction for Overdose in Mesa
+### 2. Prediction for house price
 
-[Risk Prediction](/project_markdown/Geospatial_risk.html)
-<img src="images/geospatial.png?raw=true"/>
+[House Price Prediction](/project_markdown/Rui_Jiang, Jingyi_CaiMidterm.html)
+<img src="images/hoseprice.png?raw=true"/>
 
 
 ---
