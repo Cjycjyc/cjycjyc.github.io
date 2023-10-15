@@ -12,10 +12,10 @@
 
 ---
 
-### 2. Prediction for house price
+### 2. Sharing bike Prediction
+[Pridiction for Bike](/project_markdown/Sharebike prediction.html)
+<img src="images/prediction.gif?raw=true"/>
 
-[House Price Prediction](/project_markdown/Rui_Jiang, Jingyi_CaiMidterm.html)
-<img src="images/hoseprice.png?raw=true"/>
 
 
 ---
@@ -27,9 +27,12 @@
 <img src="images/final_threshold.png?raw=true"/>
 
 ---
-### 4. Sharing bike Prediction
-[Pridiction for Bike](/project_markdown/Sharebike prediction.html)
-<img src="images/prediction.gif?raw=true"/>
+
+### 4. Prediction for house price
+
+[House Price Prediction](/project_markdown/Rui_Jiang, Jingyi_CaiMidterm.html)
+<img src="images/hoseprice.png?raw=true"/>
+
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
