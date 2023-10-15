@@ -6,6 +6,8 @@
 [Risk Prediction](/project_markdown/finaldraft_Rui_Jingyi.html)
 <img src="images/geospatial.png?raw=true"/>
 
+[Final Report](/project_markdown/RuiJiang_JingyiCai.pptx)
+<img src="images/HomePage.png?raw=true"/>
 
 
 ---
