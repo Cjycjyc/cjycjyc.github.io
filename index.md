@@ -1,4 +1,4 @@
-## Portfolio
+## Urban Analysis Portfolio
 
 ---
 ### 1. Does NYC Metro Region Have Home-job Balance?
@@ -33,6 +33,9 @@
 [House Price Prediction](/project_markdown/Rui_Jiang, Jingyi_CaiMidterm.html)
 <img src="images/hoseprice.png?raw=true"/>
 
+
+---
+## Product Design
 
 ---
 ### App Design: Group Travel App Design: Gogroup
