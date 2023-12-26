@@ -48,6 +48,6 @@
 [Github](https://github.com/LookAndSeeHappy/CIS5120_HCI/tree/main/Final%20Project)
 
 
-
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
