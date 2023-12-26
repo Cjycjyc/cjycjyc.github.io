@@ -1,7 +1,16 @@
 ## Portfolio
 
 ---
-### 1. Prediction for Overdose in Mesa
+### 1. Does NYC Metro Region Have Home-job Balance?
+
+[Home-job Balance Analysis](https://yinanli-15.github.io/MUSA550_Quarto_JHB/)
+<img src="images/1.Commute.jpeg?raw=true"/>
+
+[Prediction Model](https://yinanli-15.github.io/MUSA550_Quarto_JHB/analysis/3-ML.html)
+<img src="images/prediction.png?raw=true"/>
+
+---
+### 2. Prediction for Overdose in Mesa
 
 [Risk Prediction](/project_markdown/finaldraft_Rui_Jingyi.html)
 <img src="images/geospatial.png?raw=true"/>
@@ -12,14 +21,14 @@
 
 ---
 
-### 2. Sharing bike Prediction
+### 3. Sharing bike Prediction
 [Pridiction for Bike](/project_markdown/Sharebike prediction.html)
 <img src="images/prediction.gif?raw=true"/>
 
 
 
 ---
-### 3. Targeting A Housing Subsidy
+### 4. Targeting A Housing Subsidy
 [Coparison of threshold](/project_markdown/Targeting A Housing Subsidy.html)
 <img src="images/threshold.png?raw=true"/>
 ---
@@ -28,7 +37,7 @@
 
 ---
 
-### 4. Prediction for house price
+### 5. Prediction for house price
 
 [House Price Prediction](/project_markdown/Rui_Jiang, Jingyi_CaiMidterm.html)
 <img src="images/hoseprice.png?raw=true"/>
