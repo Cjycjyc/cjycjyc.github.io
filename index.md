@@ -34,7 +34,7 @@
 <img src="images/hoseprice.png?raw=true"/>
 
 
----
+
 ## Product Design
 
 ---
