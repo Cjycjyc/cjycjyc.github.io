@@ -42,7 +42,7 @@
 [Pitch](https://drive.google.com/file/d/1NnuDHT0F6a0EsZW-1hb4CvDPup3wuOyA/view?usp=sharing)
 <img src="images/5.Gogruop.png?raw=true"/>
 
-[Demo(pleaseadjust the browser to the proportion of cell phone)](project_markdown/Final_part1/pages/Page_1_Main_Page/Page_1_Main_Page.html)
+[Impletation Demo]Please adjust the browser to the proportion of cell phone (project_markdown/Final_part1/pages/Page_1_Main_Page/Page_1_Main_Page.html)
 <img src="images/Vertical_Gogroup.jpg?raw=true"/>
 
 [Program Introduction](https://medium.com/@laizwq/gogroup-an-app-tailored-to-enhance-the-overall-ease-of-group-travel-cb4f5705060f)
